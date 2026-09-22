@@ -39,7 +39,7 @@ Cycle with Super + Ctrl + Space.
 
 ## Preview
 
-![Preview](preview.png)
+![Preview](preview.webp)
 
 Unlock:
 
