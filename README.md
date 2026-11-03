@@ -44,3 +44,7 @@ Cycle with Super + Ctrl + Space.
 Unlock:
 
 ![Unlock](preview-unlock.png)
+
+## More for Omarchy
+
+See everything else I've built for Omarchy, each with a one-line install, at **[omarchy.farzadhayat.dev](https://omarchy.farzadhayat.dev)**.
