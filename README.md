@@ -30,7 +30,7 @@ Icons use `Yaru-yellow`. Active window borders run gold into ochre.
 
 ## Backgrounds
 
-Gold Coast, koala, Opera House, Uluru, wallabies, water dragon, and jacaranda.
+Flag, Gold Coast, koala, Opera House, Uluru, wallabies, water dragon, and jacaranda.
 
 `jacaranda.webp` is "Jacaranda mimosifolia in full bloom, Chelmer, Queensland, October 2020, 02" by Chris Olszewski ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jacaranda_mimosifolia_in_full_bloom,_Chelmer,_Queensland,_October_2020,_02.jpg)), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Cropped to 16:9.
 
