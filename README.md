@@ -30,10 +30,9 @@ Icons use `Yaru-yellow`. Active window borders run gold into ochre.
 
 ## Backgrounds
 
-- `omarchy.webp` wordmark
-- `1-southern-cross.webp`
-- `2-uluru.webp`
-- `3-reef.webp`
+Gold Coast, koala, Opera House, Uluru, wallabies, water dragon, and jacaranda.
+
+`jacaranda.webp` is "Spring with Jacaranda mimosifolia in Brisbane, 2024, 02" by Chris Olszewski ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spring_with_Jacaranda_mimosifolia_in_Brisbane,_2024,_02.jpg)), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). Cropped to 16:9.
 
 Cycle with Super + Ctrl + Space.
 
