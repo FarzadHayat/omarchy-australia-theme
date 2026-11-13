@@ -47,3 +47,7 @@ Unlock:
 ## More for Omarchy
 
 See everything else I've built for Omarchy, each with a one-line install, at **[omarchy.farzadhayat.dev](https://omarchy.farzadhayat.dev)**.
+
+## Support
+
+If this saves you time, please [sponsor me on GitHub](https://github.com/sponsors/FarzadHayat). It keeps these projects maintained and free.
